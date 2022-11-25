@@ -30,6 +30,7 @@
     display: inline;
     border-radius: 6px;
     background-color: rgb(201, 228, 251);
+    padding : .5rem;
 }
 
 @media screen and (max-width: 850px) {

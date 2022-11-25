@@ -38,6 +38,7 @@
     padding: 0.7rem, 1rem;
     font-family:'Poppins', sans-serif;
     white-space: nowrap;
+    text-decoration: none;
 }
 
 .nav-menu i {
@@ -49,7 +50,7 @@
     color: azure;
     border-radius: 4px;
     padding: 5px;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 .nav-links-mobile {
@@ -76,6 +77,8 @@ button:hover {
 .menu-icons{
     display :none;
 }
+
+
 
 @media screen and (max-width: 850px) {
     .NavbarItem{
